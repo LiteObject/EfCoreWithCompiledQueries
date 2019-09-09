@@ -1,0 +1,11 @@
+C:\Users\tunii\source\repos\LiteObject\EfCoreWithCompiledQueries\EfCoreWithCompiledQueries\bin\Debug\netcoreapp2.2\EfCoreWithCompiledQueries.deps.json
+C:\Users\tunii\source\repos\LiteObject\EfCoreWithCompiledQueries\EfCoreWithCompiledQueries\bin\Debug\netcoreapp2.2\EfCoreWithCompiledQueries.runtimeconfig.json
+C:\Users\tunii\source\repos\LiteObject\EfCoreWithCompiledQueries\EfCoreWithCompiledQueries\bin\Debug\netcoreapp2.2\EfCoreWithCompiledQueries.runtimeconfig.dev.json
+C:\Users\tunii\source\repos\LiteObject\EfCoreWithCompiledQueries\EfCoreWithCompiledQueries\bin\Debug\netcoreapp2.2\EfCoreWithCompiledQueries.dll
+C:\Users\tunii\source\repos\LiteObject\EfCoreWithCompiledQueries\EfCoreWithCompiledQueries\bin\Debug\netcoreapp2.2\EfCoreWithCompiledQueries.pdb
+C:\Users\tunii\source\repos\LiteObject\EfCoreWithCompiledQueries\EfCoreWithCompiledQueries\obj\Debug\netcoreapp2.2\EfCoreWithCompiledQueries.csprojAssemblyReference.cache
+C:\Users\tunii\source\repos\LiteObject\EfCoreWithCompiledQueries\EfCoreWithCompiledQueries\obj\Debug\netcoreapp2.2\EfCoreWithCompiledQueries.csproj.CoreCompileInputs.cache
+C:\Users\tunii\source\repos\LiteObject\EfCoreWithCompiledQueries\EfCoreWithCompiledQueries\obj\Debug\netcoreapp2.2\EfCoreWithCompiledQueries.AssemblyInfoInputs.cache
+C:\Users\tunii\source\repos\LiteObject\EfCoreWithCompiledQueries\EfCoreWithCompiledQueries\obj\Debug\netcoreapp2.2\EfCoreWithCompiledQueries.AssemblyInfo.cs
+C:\Users\tunii\source\repos\LiteObject\EfCoreWithCompiledQueries\EfCoreWithCompiledQueries\obj\Debug\netcoreapp2.2\EfCoreWithCompiledQueries.dll
+C:\Users\tunii\source\repos\LiteObject\EfCoreWithCompiledQueries\EfCoreWithCompiledQueries\obj\Debug\netcoreapp2.2\EfCoreWithCompiledQueries.pdb
